@@ -1,0 +1,84 @@
+.header-img {
+  background-size: cover;
+  background-position: center;
+  background-image: url(imgs/Forest-Background.jpg);
+
+}
+
+.nav-img {
+  background-size: cover;
+  background-position: center;
+  background-color: #488347;
+
+}
+
+.content-right {
+  justify-content: right;
+  padding-left: 5rem;
+}
+
+.shadow {
+  text-shadow: 10px 10px 100px #ff00a634;
+}
+
+.justify-content {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.maple {
+  height: 500px;
+}
+
+.m-y {
+  margin-top: 5rem;
+}
+
+body {
+  /* margin-left: 15rem;
+  margin-right: 15rem; */
+  background-color: rgb(52, 43, 43);
+}
+
+h1 {
+  font-size: 50px;
+}
+
+nav {
+  background-color: white;
+}
+
+.logo {
+  height: 50px;
+}
+
+.crown {
+  justify-content: space-around;
+}
+
+.main-bkg {
+  background-color: rgb(76, 38, 12);
+}
+
+.para {
+  background-color: #488347;
+  align-items: center;
+  justify-content: space-around;
+
+}
+
+.filler {
+  padding: 3em;
+  margin-top: 2em;
+}
+
+.trees {
+  width: 200px;
+  height: 300px;
+  align-content: center;
+}
+
+.sixTs {
+  justify-content: space-around;
+}
