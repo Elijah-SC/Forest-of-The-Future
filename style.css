@@ -2,7 +2,7 @@
   background-size: cover;
   background-position: center;
   background-image: url(imgs/Forest-Background.jpg);
-  min-width: 100vw;
+  min-width: 100%;
 
 }
 
@@ -55,7 +55,7 @@ nav {
   background-color: #488347;
   align-items: center;
   justify-content: space-around;
-  max-width: 100dvw;
+  max-width: 100%;
 
 }
 
